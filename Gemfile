@@ -43,3 +43,12 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# Devise Authentication
+gem 'devise'
+
+# OAuth Base
+gem 'omniauth'
+
+# OAuth GitHub Strategy
+gem 'omniauth-github'
